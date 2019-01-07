@@ -1,1 +1,1 @@
-we are write git commands here.
+we are write git commands here.ps:git add.
